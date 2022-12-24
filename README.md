@@ -30,7 +30,8 @@
 
 — Mona the Octocat
 
-<journey>
+```mermaid
+   journey
     title My working day
     section Go to work
       Make tea: 5: Me
@@ -39,4 +40,4 @@
     section Go home
       Go downstairs: 5: Me
       Sit down: 5: Me
-</journey>
+```
