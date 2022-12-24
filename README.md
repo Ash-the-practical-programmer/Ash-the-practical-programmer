@@ -11,7 +11,9 @@
 - 💞️ I’m looking to collaborate on projects related to Ruby and web
 - 📫 How to reach me : ab9168293@gmail.com
 
-<!---
-Ash-the-practical-programmer/Ash-the-practical-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+| Rank |   Languages   |
+|-----:|---------------|
+|     1|       Ruby    |
+|     2|       C++     |
+|     3|       JS      |
