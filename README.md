@@ -11,9 +11,13 @@
 - 💞️ I’m looking to collaborate on projects related to Ruby and web
 - 📫 How to reach me : ab9168293@gmail.com
 
+<details>
+<summary>My top languages</summary>
 
 | Rank |   Languages   |
 |-----:|---------------|
 |     1|       Ruby    |
 |     2|       C++     |
 |     3|       JS      |
+
+</details>
