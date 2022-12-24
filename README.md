@@ -30,13 +30,10 @@
 
 — Mona the Octocat
 
-<journey>
-    title My working day
-    section Go to work
-      Make tea: 5: Me
-      Go upstairs: 3: Me
-      Do work: 1: Me, Cat
-    section Go home
-      Go downstairs: 5: Me
-      Sit down: 5: Me
-</journey>
+```mermaid
+pie title Overall Languages Used
+    "Ruby" : 80.00
+    "C++" : 5.00
+    "Java & Kotlin" : 10.00
+    "Web" :  5.00
+```
