@@ -5,6 +5,8 @@
 </picture>
 
 ## About Me
+
+<!-- TO DO: add more details about me later -->
 - 👋 Hi, I’m @Ash-the-practical-programmer
 - 👀 I’m interested in learning new technology and widely used algorithms 
 - 🌱 I’m currently learning Ruby and C++
@@ -22,5 +24,8 @@
 
 </details>
 
+
 ---
->
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
