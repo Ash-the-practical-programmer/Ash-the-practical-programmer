@@ -37,3 +37,5 @@ pie title Overall Languages Used
     "Java & Kotlin" : 10.00
     "Web" :  5.00
 ```
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ash-the-practical-programmer&theme=hacker)](https://git.io/streak-stats)
