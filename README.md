@@ -21,6 +21,7 @@
 |     1|       Ruby    |
 |     2|       C++     |
 |     3|       JS      |
+|     4|       HTML    |
 
 </details>
 
@@ -32,10 +33,10 @@
 
 ```mermaid
 pie title Overall Languages Used
-    "Ruby" : 80.00
-    "C++" : 5.00
-    "Java & Kotlin" : 10.00
-    "Web" :  5.00
+    "Ruby" : 60.00
+    "C++" : 20.00
+    "Java & Kotlin" : 5.00
+    "Web" :  15.00
 ```
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ash-the-practical-programmer&theme=hacker)](https://git.io/streak-stats)
