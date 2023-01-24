@@ -7,7 +7,7 @@
 ## About Me
 
 <!-- TO DO: add more details about me later -->
-- 👋 Hi, I’m @Ash-the-practical-programmer
+- 👋 Hi, I’m Ash
 - 👀 I’m interested in learning new technology and widely used algorithms 
 - 🌱 I’m currently learning Ruby and C++
 - 💞️ I’m looking to collaborate on projects related to Ruby and web
