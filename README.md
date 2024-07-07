@@ -9,7 +9,7 @@
 <!-- TO DO: add more details about me later -->
 - 👋 Hi, I’m Ash
 - 👀 I’m interested in learning new technology and widely used algorithms 
-- 🌱 I’m currently learning TypeScript and Vue.js
+- 🌱 I’m currently learning Vue.js and Vuetify.js
 - 💞️ I’m looking to collaborate on projects related to Ruby and web
 - 📫 How to reach me : ab9168293@gmail.com
 
