@@ -15,4 +15,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ash-the-practical-programmer&theme=dracula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash-the-practical-programmer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash-the-practical-programmer&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
