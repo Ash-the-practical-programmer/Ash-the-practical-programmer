@@ -9,7 +9,7 @@
 
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?ash-the-practical-programmer=ryo-ma&theme=dracula&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ash-the-practical-programmer&theme=dracula&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash-the-practical-programmer&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
