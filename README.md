@@ -9,7 +9,7 @@
 
 
 ---
-[![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash-the-practical-programmer)](https://github.com/anuraghazra/github-readme-stats)
+[![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash-the-practical-programmer&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ash-the-practical-programmer&theme=hacker)](https://git.io/streak-stats)
 
