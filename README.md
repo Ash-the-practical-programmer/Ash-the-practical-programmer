@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Ash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21px"> </h2>
+<h2>Hi there, I'm Ash <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="26" height="26"></h2>
    
 
 ## About Me
