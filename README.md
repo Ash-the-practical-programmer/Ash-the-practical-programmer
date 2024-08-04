@@ -13,23 +13,9 @@
 - 💞️ I’m looking to collaborate on projects related to Ruby and web
 - 📫 How to reach me : ab9168293@gmail.com
 
-<details>
-<summary>My top languages</summary>
-
-| Rank |   Languages   |
-|-----:|---------------|
-|     1|       C++     |
-|     2|       Ruby    |
-|     3|       JS      |
-|     4|       HTML    |
-
-</details>
-
 
 ---
-> If we pull together and commit ourselves, then we can push through anything.
-
-— Mona the Octocat
+[![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash-the-practical-programmer)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ash-the-practical-programmer&theme=hacker)](https://git.io/streak-stats)
 
