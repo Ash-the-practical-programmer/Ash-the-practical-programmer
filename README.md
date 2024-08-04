@@ -1,7 +1,9 @@
+<h2>Hi there, I'm Ash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21px"> </h2>
+   
+
 ## About Me
 
 <!-- TO DO: add more details about me later -->
-- 👋 Hi, I’m Ash
 - 👀 I’m interested in learning new technology and widely used algorithms 
 - 🌱 I’m currently learning Vue.js and Vuetify.js
 - 💞️ I’m looking to collaborate on projects related to Ruby and web
