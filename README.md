@@ -6,7 +6,7 @@
 <!-- TO DO: add more details about me later -->
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="20" height="20"> I’m interested in learning new technology and widely used algorithms
 - 🌱 I’m currently learning Vue.js and Vuetify.js
-- 💞️ I’m looking to collaborate on projects related to Ruby and web
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49e/512.gif" height="22" width="22" alt="💞"> I’m looking to collaborate on projects related to Ruby and web
 - 📫 How to reach me : ab9168293@gmail.com
 
 
